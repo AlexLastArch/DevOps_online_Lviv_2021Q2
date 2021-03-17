@@ -1,0 +1,36 @@
+[33mcommit 0137ebbb1a3fcf61838a178d5e9eba162e10f0c0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mdeveloper[m[33m)[m
+Merge: 74f2cc5 ef4cd30
+Author: Alex <arcantus11@gmail.com>
+Date:   Wed Mar 17 17:37:14 2021 +0200
+
+    Merge branch 'styles' into developer
+
+[33mcommit ef4cd3022138f98fba6494af215fce1e2ad9c5e9[m[33m ([m[1;32mstyles[m[33m)[m
+Author: Alex <arcantus11@gmail.com>
+Date:   Wed Mar 17 17:33:24 2021 +0200
+
+    Style
+
+[33mcommit 74f2cc5779342803ba2b841139deacc6450d00b6[m[33m ([m[1;32mimages[m[33m)[m
+Author: Alex <arcantus11@gmail.com>
+Date:   Wed Mar 17 17:29:25 2021 +0200
+
+    Images 2
+
+[33mcommit 4dd49dd8617971fefaac0091f8a9444991f4d4b7[m
+Author: Alex <arcantus11@gmail.com>
+Date:   Wed Mar 17 17:25:41 2021 +0200
+
+    Images
+
+[33mcommit 2657e2eaff966bea4c25f95f26359e214c3256d2[m
+Author: Alex <arcantus11@gmail.com>
+Date:   Wed Mar 17 17:21:52 2021 +0200
+
+    Index
+
+[33mcommit 84248bb424ed3cbf7a3ef2eedcdb55d625fa6ce8[m
+Author: Alex <arcantus11@gmail.com>
+Date:   Wed Mar 17 17:20:06 2021 +0200
+
+    Create

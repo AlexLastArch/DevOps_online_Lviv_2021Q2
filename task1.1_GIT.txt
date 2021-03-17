@@ -1,0 +1,12 @@
+alex@alex-HP-ProBook-430-G1:~/DevOps_online_Lviv_2021Q2$ git reflog
+0137ebb (HEAD -> master, origin/master, origin/developer, developer) HEAD@{0}: merge developer: Fast-forward
+84248bb HEAD@{1}: checkout: moving from developer to master
+0137ebb (HEAD -> master, origin/master, origin/developer, developer) HEAD@{2}: merge styles: Merge made by the 'recursive' strategy.
+74f2cc5 (origin/images, images) HEAD@{3}: merge images: Fast-forward
+2657e2e HEAD@{4}: checkout: moving from styles to developer
+ef4cd30 (origin/styles, styles) HEAD@{5}: commit: Style
+2657e2e HEAD@{6}: checkout: moving from developer to styles
+2657e2e HEAD@{7}: checkout: moving from images to developer
+74f2cc5 (origin/images, images) HEAD@{8}: commit: Images 2
+4dd49dd HEAD@{9}: commit: Images
+:
