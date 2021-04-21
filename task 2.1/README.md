@@ -1,6 +1,6 @@
 Module 2 Virtualization and Cloud Basic
 # TASK 2.1
-##PART 1. HYPERVISORS
+## PART 1. HYPERVISORS
 ##### __1. What are the most popular hypervisors for infrastructure virtualization?__
 * VMware vSphere Hypervisor
 * Microsoft Hyper-V
@@ -26,7 +26,7 @@ __1.1__ Downloaded the latest stable version of VirtualBox for Linux Ubuntu and 
 1.8 Exported VM1. Saved the *.ova file to disk. Import VM from Ubuntu Server Pokhodoshchuk.ova file .
 ___
 
-##2. Configuration of virtual machines
+## 2. Configuration of virtual machines
 
 
 2.1 Explored VM configuration options (general settings, system settings, display, storage, audio, network, etc.).
@@ -39,7 +39,7 @@ between VM1, VM2, Host, Internet for different network modes. Used the ping
 command to do this. Made a table of possible connections.
 
 
-##3. Work with CLI through VBoxManage.
+## 3. Work with CLI through VBoxManage.
 
 
 3.1 Ran the cmd.exe command line.
