@@ -20,7 +20,7 @@
 11. Store and Retrieve a File. Repeated, created my repository.
 12. Batch upload files to the cloud to Amazon S3 using the AWS CLI. Created a user AWS IAM, configure CLI AWS and upload kiitens.jpeg to S3.
 ![S3](https://github.com/AlexLastArch/DevOps_online_Lviv_2021Q2/blob/master/m2/task%202.2/images/S3.png)
-13. Explored the possibilities of creating my own domain and domain name for your site. Arcantus.pp.ua
+13. Explored the possibilities of creating my own domain and domain name for your site. [Arcanrus](http://www.Arcantus.pp.ua "Arcantus.pp.ua")
 14. Deployed Docker Containers on Amazon Elastic Container Service (Amazon ECS). Repeat, create a cluster, and run the online demo application or better other application with custom settings.
 15. Created a static website on Amazon S3, publicly available 
 https://s3.eu-central-1.amazonaws.com/www.mycvforepamawsprogram.ua/CV/index.html
