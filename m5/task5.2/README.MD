@@ -1,8 +1,8 @@
 ## Task2
 
 1) Analyze the structure of the /etc/passwd and /etc/group file, what fields are present in it, what users exist on the system? Specify several pseudo-users, how to define them?
-![1]()
-![2]()
+![1](https://github.com/AlexLastArch/DevOps_online_Lviv_2021Q2/blob/df5acc71e7e2456a0b9a47bcdabaf3743892de3d/m5/task5.2/img/1.png)
+![2](https://github.com/AlexLastArch/DevOps_online_Lviv_2021Q2/blob/df5acc71e7e2456a0b9a47bcdabaf3743892de3d/m5/task5.2/img/2.png)
 __Root, Pseudo-users, Regular users__
 __sshd, bin, daemon, nobody. Their UID between 1-999__
 2) What are the uid ranges? What is UID? How to define it?
