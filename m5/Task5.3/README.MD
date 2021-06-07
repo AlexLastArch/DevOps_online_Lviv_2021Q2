@@ -6,12 +6,12 @@
 
 2. Examine the pstree command. Make output (highlight) the chain (ancestors) of the current 
 process.
-![1]()
+![1](https://github.com/AlexLastArch/DevOps_online_Lviv_2021Q2/blob/79e939054d0b240ad68d3a355d3822fafd19a5a9/m5/Task5.3/img/1.png)
 3. What is a proc file system?
 The proc file system contains a hierarchy of special files that represent the current state of the kernel. It is named after its original purpose, which is an interface to the structures within running processes to support debugging tools.
 
 4. Print information about the processor (its type, supported technologies, etc.).
-![2]()
+![2](https://github.com/AlexLastArch/DevOps_online_Lviv_2021Q2/blob/79e939054d0b240ad68d3a355d3822fafd19a5a9/m5/Task5.3/img/2.png)
 
 5. Use the ps command to get information about the process. The information should be as 
 follows: the owner of the process, the arguments with which the process was launched for 
@@ -75,7 +75,7 @@ screenshots: command – result should be presented)
 ssh
 ssh -V
 ssh -keygen
-![3]()
+![3](https://github.com/AlexLastArch/DevOps_online_Lviv_2021Q2/blob/79e939054d0b240ad68d3a355d3822fafd19a5a9/m5/Task5.3/img/3.png)
 
 2. Implement basic SSH settings to increase the security of the client-server connection (at least 
 ssh -i -private access
@@ -90,14 +90,14 @@ ssh-keygen -t rsa -b 4096 -o -a 250
 
 4. Implement port forwarding for the SSH client from the host machine to the guest Linux 
 virtual machine behind NAT.
-![4]()
-![5]()
-![6]()
-![7]()
-![8]()
-![9]()
+![4](https://github.com/AlexLastArch/DevOps_online_Lviv_2021Q2/blob/79e939054d0b240ad68d3a355d3822fafd19a5a9/m5/Task5.3/img/4.png)
+![5](https://github.com/AlexLastArch/DevOps_online_Lviv_2021Q2/blob/79e939054d0b240ad68d3a355d3822fafd19a5a9/m5/Task5.3/img/5.png)
+![6](https://github.com/AlexLastArch/DevOps_online_Lviv_2021Q2/blob/79e939054d0b240ad68d3a355d3822fafd19a5a9/m5/Task5.3/img/6.png)
+![7](https://github.com/AlexLastArch/DevOps_online_Lviv_2021Q2/blob/79e939054d0b240ad68d3a355d3822fafd19a5a9/m5/Task5.3/img/7.png)
+![8](https://github.com/AlexLastArch/DevOps_online_Lviv_2021Q2/blob/79e939054d0b240ad68d3a355d3822fafd19a5a9/m5/Task5.3/img/8.png)
+![9](https://github.com/AlexLastArch/DevOps_online_Lviv_2021Q2/blob/79e939054d0b240ad68d3a355d3822fafd19a5a9/m5/Task5.3/img/9.png)
 5*. Intercept (capture) traffic (tcpdump, wireshark) while authorizing the remote client on the 
 server using ssh, telnet, rlogin. Analyze the result
-![10]()
+![10](https://github.com/AlexLastArch/DevOps_online_Lviv_2021Q2/blob/79e939054d0b240ad68d3a355d3822fafd19a5a9/m5/Task5.3/img/10.png)
 tcpdump is a command-line utility that you can use to capture and inspect network traffic going to and from your system. It is the most commonly used tool among network administrators for troubleshooting network issues and security testing.
 
